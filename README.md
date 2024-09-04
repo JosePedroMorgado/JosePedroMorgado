@@ -6,7 +6,17 @@ Sou um profissional em transição de carreira, migrando do Jornalismo para o fa
 
 Estou cursando Análise e Desenvolvimento de Sistemas e participando do programa Santander Coders, onde estou adquirindo conhecimentos práticos e teóricos em Engenharia de Dados. Minha paixão por resolver problemas, aliada à minha experiência em comunicação, me permite abordar desafios técnicos com uma perspectiva única.
 
+## Certificações
+
+
+
 ## Futuros Projetos
+
+## Contato
+
+<div align=""center""> 
+  <a href=""https://www.linkedin.com/in/josepedrosmorgado/"" target=""_blank""><img src=""..."" target=""_blank""></a> 
+</div>
 
 <!--
 **JosePedroMorgado/JosePedroMorgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
