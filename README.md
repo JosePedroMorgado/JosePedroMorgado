@@ -15,7 +15,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas e participando do programa
 ## Contato
 
 <div align=""center""> 
-  <a href="https://www.linkedin.com/in/josepedrosmorgado/" target=""_blank""><img src="https://raw.githubusercontent.com/JosePedroMorgado/bancoimages/main/linkedin.png" target=""_blank""></a> 
+  <a href="https://www.linkedin.com/in/josepedrosmorgado/" target=""_blank""><img src="[https://raw.githubusercontent.com/JosePedroMorgado/bancoimages/main/linkedin.png](https://github.com/JosePedroMorgado/bancoimages/blob/main/linkedin.png?raw=true)" target=""_blank""></a> 
 </div>
 
 <!--
