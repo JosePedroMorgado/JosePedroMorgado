@@ -1,16 +1,12 @@
 Olá, meu nome é **José Pedro de Sousa Morgado** 👋
 
-### Sobre Mim
+## Sobre Mim
 
 Sou um profissional em transição de carreira, migrando do Jornalismo para o fascinante mundo da Tecnologia. Atualmente, estou focado em desenvolver minhas habilidades em Análise e Desenvolvimento de Sistemas, além de me aprofundar na área de Front-end e Engenharia de Dados.  
 
 Estou cursando Análise e Desenvolvimento de Sistemas e participando do programa Santander Coders, onde estou adquirindo conhecimentos práticos e teóricos em Engenharia de Dados. Minha paixão por resolver problemas, aliada à minha experiência em comunicação, me permite abordar desafios técnicos com uma perspectiva única.
 
-- texto em vermelho
-+ texto em verde
-! texto em laranja
-# texto em cinza
-@@ texto em roxo (e negrito)@@
+## Futuros Projetos
 
 <!--
 **JosePedroMorgado/JosePedroMorgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
